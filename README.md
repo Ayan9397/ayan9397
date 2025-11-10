@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Mohd Ayan  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=30&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;GATE+CSE+2026+Aspirant;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=30&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;GATE+Qualified+2025;Tech+Explorer)](https://git.io/typing-svg)
 
 ## 🚀 About Me  
 I'm a *Computer Science Graduate* passionate about *Data Science* and *Artificial Intelligence*.  
