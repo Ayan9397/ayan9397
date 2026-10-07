@@ -4,6 +4,8 @@
 
 **Computer Science Graduate | Software Development | Java | Python | SQL | Django | JavaScript | DSA**
 
+📄 **[Download Official 1-Page Resume (PDF)](https://raw.githubusercontent.com/Ayan9397/Portfolio/main/resume.pdf)** · 🌐 **[Live Developer Portfolio](https://ayan9397.github.io/Portfolio/)** · 💼 **[LinkedIn Profile](https://www.linkedin.com/in/mohd-ayan-39725b334/)**
+
 ---
 
 ### 🎯 Career Objective
@@ -165,6 +167,7 @@ Computer Science graduate with a strong foundation in **Object-Oriented Programm
 
 ### 🔗 Connect With Me
 
+[![Resume PDF](https://img.shields.io/badge/Resume-Download_1--Page_PDF-blueviolet?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Ayan9397/Portfolio/main/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-ayan-39725b334/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayan9397)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdayan8896@gmail.com)
